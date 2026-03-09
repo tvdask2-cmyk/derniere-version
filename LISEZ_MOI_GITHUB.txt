@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+URGENT : VEUILLEZ LIRE CE FICHIER AVANT D'ENVOYER SUR GITHUB
+--------------------------------------------------------------------------------
+
+1. Le dossier "github_config" contient la configuration pour créer votre logiciel.
+2. Windows cache souvent les dossiers qui commencent par un point (.), donc j'ai renommé le dossier en "github_config" pour qu'il soit visible.
+
+--------------------------------------------------------------------------------
+CE QUE VOUS DEVEZ FAIRE SUR LE SITE GITHUB (UNE FOIS LES FICHIERS ENVOYÉS)
+--------------------------------------------------------------------------------
+
+1. Allez dans la liste des fichiers sur votre dépôt GitHub.
+2. Cliquez sur le dossier nommé "github_config" pour entrer dedans.
+3. Cliquez sur les 3 petits points (...) en haut à droite de la liste des fichiers -> "Rename" (Renommer).
+4. Changez le nom "github_config" en ".github" (N'oubliez pas le point au début !).
+5. Cliquez sur "Commit changes".
+
+Dès que vous faites cela, la fabrication du logiciel (.exe / .dmg) va démarrer automatiquement dans l'onglet "Actions".
